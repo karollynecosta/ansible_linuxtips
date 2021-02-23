@@ -1,0 +1,4 @@
+---
+# tasks file for create-instances
+#chamando o provisioning.yml
+- include: provisioning.yml

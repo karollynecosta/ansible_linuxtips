@@ -1,0 +1,9 @@
+---
+# vars for create-instances
+instance_type:t2.medium
+sec_group_name:ansible
+image:ami-0e765cee959bcbfce
+region:sa-east-1
+keypair:redhat-server
+count:3
+profile:apolo
