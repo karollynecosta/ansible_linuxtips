@@ -1,0 +1,3 @@
+---
+# arquivo que indica onde estao as regras
+- include: install.yml

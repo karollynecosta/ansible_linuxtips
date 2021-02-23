@@ -14,3 +14,6 @@ ssh-add chave.pem
 
 #day2
 Projeto Ansible + AWS + K8s
+
+#day3
+Instalação do Kubernetes
