@@ -17,3 +17,7 @@ criação do cluster k8s
 # documentações
 
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+
+https://kubernetes.io/pt/docs/concepts/cluster-administration/addons/
+
+https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
