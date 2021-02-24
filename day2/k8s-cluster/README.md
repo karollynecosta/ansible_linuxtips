@@ -17,6 +17,8 @@ Dentro da pasta roles:
 
 ```
 ansible-galaxy init create-instances
+
+ansible-playbook -i hosts main.yml
 ```
 
 # Links úteis:
