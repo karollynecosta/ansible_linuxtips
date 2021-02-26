@@ -46,6 +46,8 @@ https://kubernetes.io/pt/docs/concepts/cluster-administration/addons/
 
 https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
 
+https://www.techrepublic.com/article/how-to-deploy-nginx-on-a-kubernetes-cluster/
+
 # em caso de erro de permissão
 
 ```
