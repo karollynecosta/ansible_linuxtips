@@ -48,6 +48,8 @@ https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
 
 https://www.techrepublic.com/article/how-to-deploy-nginx-on-a-kubernetes-cluster/
 
+https://blog.getupcloud.com/prometheus-operator-80cf5ef57e00
+
 # em caso de erro de permissão
 
 ```
